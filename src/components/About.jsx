@@ -110,7 +110,7 @@ function About() {
                         </div>
                         <div className="col-12 col-md-6 mt-md-5">
                             <p className=' ff-roboto fw-500 text-18 lh-21 text-white mb-0'>This is difficult</p>
-                            <p className=' ff-roboto fw-400 text-16 lh-24 text-white op-7 mb-0 mt-12'>Web3 Games have a notoriously high barrier-to-entry for casual gamers who make up the vast majority of players. “Link your wallet” before gameplay is not just off-putting, it’s boring. We’re solving that with <span className='fw-600'> world-class storytelling,</span> world-building, game design, art and sound. And fun.</p>
+                            <p className=' ff-roboto fw-400 text-16 lh-24 text-white op-7 mb-0 mt-12'>Web3 Games have a notoriously high barrier-to-entry for casual gamers who make up the vast majority of players. “Link your wallet” before gameplay is not just off-putting, it&apos;s boring. We&apos;re solving that with <span className='fw-600'> world-class storytelling,</span> world-building, game design, art and sound. And fun.</p>
                         </div>
                     </div>
                     <div className="row pt-42">
