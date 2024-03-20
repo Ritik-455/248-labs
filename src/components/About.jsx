@@ -110,7 +110,7 @@ function About() {
                         </div>
                         <div className="col-12 col-md-6 mt-md-5">
                             <p className=' ff-roboto fw-500 text-18 lh-21 text-white mb-0'>This is difficult</p>
-                            <p className=' ff-roboto fw-400 text-16 lh-24 text-white op-7 mb-0 mt-12'>Web3 Games have a notoriously high barrier-to-entry for casual gamers who make up the vast majority of players. “Link your wallet” before gameplay is not just off-putting, it&apos;s boring. We&apos;re solving that with <span className='fw-600'> world-class storytelling,</span> world-building, game design, art and sound. And fun.</p>
+                            <p className=' ff-roboto fw-400 text-16 lh-24 text-white op-7 mb-0 mt-12'>Web3 Games have a notoriously high barrier-to-entry for casual gamers who make up the vast majority of players. 	&quot;Link your wallet	&quot; before gameplay is not just off-putting, it&apos;s boring. We&apos;re solving that with <span className='fw-600'> world-class storytelling,</span> world-building, game design, art and sound. And fun.</p>
                         </div>
                     </div>
                     <div className="row pt-42">
@@ -124,7 +124,7 @@ function About() {
                         <div className="col-12 col-md-6 col-lg-4 d-flex justify-content-center d-lg-block">
                             <div className="build-card overflow-hidden position-relative mt-40 mt-md-0">
                                 <h3 className=' ff-roboto fw-700 text-32 lh-38 text-white mb-0'>Game Design</h3>
-                                <p className=' ff-roboto fw-400 text-16 lh-24 text-white mb-0 op-7 mt-3'>Every frame becomes a brushstroke, every motion a choreographed dance, contributing to a symphony of visuals that captivate players ' senses and ignite their imagination.</p>
+                                <p className=' ff-roboto fw-400 text-16 lh-24 text-white mb-0 op-7 mt-3'>Every frame becomes a brushstroke, every motion a choreographed dance, contributing to a symphony of visuals that captivate players&apos; senses and ignite their imagination.</p>
                                 <div className="box-ellips position-absolute btm-23"></div>
                             </div>
                         </div>
